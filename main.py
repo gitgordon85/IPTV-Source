@@ -477,15 +477,7 @@ all_lines_simple =  ["更新时间,#genre#"] + [version] + ['\n'] +\
              ["港澳台,#genre#"] + sort_data(gat_dictionary,ordered_deduplicate(gat_lines)) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,ordered_deduplicate(dy_lines)) + ['\n'] + \
              ["电视剧频道,#genre#"] + sort_data(dsj_dictionary,ordered_deduplicate(dsj_lines)) + ['\n'] + \
-             ["综艺频道,#genre#"] + sort_data(zy_dictionary,ordered_deduplicate(zy_lines)) + ['\n'] + \
-             ["NewTV,#genre#"] + sort_data(newtv_dictionary,ordered_deduplicate(newtv_lines)) + ['\n'] + \
-             ["iHOT,#genre#"] + sort_data(ihot_dictionary,ordered_deduplicate(ihot_lines)) + ['\n'] + \
-             ["体育频道,#genre#"] + sort_data(ty_dictionary,ordered_deduplicate(ty_lines)) + ['\n'] + \
-             ["咪咕直播,#genre#"] + sort_data(migu_dictionary,ordered_deduplicate(migu_lines))+ ['\n'] + \
-             ["埋堆堆,#genre#"] + sort_data(mdd_dictionary,ordered_deduplicate(mdd_lines)) + ['\n'] + \
-             ["音乐频道,#genre#"] + sorted(ordered_deduplicate(yy_lines)) + ['\n'] + \
-             ["游戏频道,#genre#"] + sorted(ordered_deduplicate(game_lines)) + ['\n'] + \
-             ["解说频道,#genre#"] + sorted(ordered_deduplicate(js_lines))
+             ["广东频道,#genre#"] + sort_data(gd_dictionary,ordered_deduplicate(gd_lines)) 
 
 # 合并所有对象中的行文本（去重，排序后拼接）
 all_lines =  all_lines_simple + ['\n'] + \
