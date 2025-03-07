@@ -468,7 +468,7 @@ utc_time = datetime.now(timezone.utc)
 beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M")
-version=formatted_time+",https://xpb.mhfs.eu.org/ds.mp4"
+version=formatted_time+",Gordon85"
 
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] + [version] + ['\n'] +\
