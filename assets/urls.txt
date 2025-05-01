@@ -3,13 +3,13 @@ https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.tx
 https://raw.githubusercontent.com/gitgordon85/Gordon-IPTV/refs/heads/main/live.txt
 http://mdxgh.tpddns.cn:88/new/mdzb.txt
 http://xhztv.top/zbc.txt
+http://live.nctv.top/x.txt
 http://kxrj.site:55/lib/kx2024.txt
 http://www.lyyytv.cn/yt/zhibo/1.txt
 http://112.74.124.75:8899/zb.txt
 http://zby.xjqxz.top/live1213.txt
 http://tipu.xjqxz.top/live1213.txt
 https://www.cccimg.com/down.php/9666e18d47e77f9d9da033f1015010ab.txt
-http://live.nctv.top/x.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
 http://47.120.41.246:8899/zb.txt
 http://f225785a.80.robot.bwbot.org/publish/tv/-/raw/gd/result.txt
