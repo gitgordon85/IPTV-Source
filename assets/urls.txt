@@ -6,6 +6,7 @@ https://live.zbds.top/tv/iptv4.txt
 
 https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/DIYP%20fanmingming.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
+https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/gitgordon85/Gordon-IPTV/refs/heads/main/live.txt
 http://mdxgh.tpddns.cn:88/new/mdzb.txt
 http://xhztv.top/zbc.txt
