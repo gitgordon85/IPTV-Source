@@ -9,6 +9,11 @@ https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.tx
 https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/gitgordon85/Gordon-IPTV/refs/heads/main/live.txt
 http://mdxgh.tpddns.cn:88/new/mdzb.txt
+http://47.120.41.246:8899/zb.txt
+http://wx.thego.cn/hk.txt
+https://tv.850930.xyz/kdsb.txt
+https://jihulab.com/-/snippets/5265/raw/main/.txt
+
 http://xhztv.top/zbc.txt
 http://live.nctv.top/x.txt
 http://kxrj.site:55/lib/kx2024.txt
@@ -31,7 +36,6 @@ http://175.178.251.183:6689/live.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
 
 http://120.233.84.209:3568/tv.txt
-http://47.120.41.246:8899/zb.txt
 https://ygbh.site/php/bhzb.php
 http://aktv.top/live.txt
 https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
