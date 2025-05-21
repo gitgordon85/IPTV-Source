@@ -13,6 +13,7 @@ http://47.120.41.246:8899/zb.txt
 http://wx.thego.cn/hk.txt
 https://tv.850930.xyz/kdsb.txt
 https://jihulab.com/-/snippets/5265/raw/main/.txt
+http://home.jundie.top:81/Cat/tv/live.txt
 
 http://xhztv.top/zbc.txt
 http://live.nctv.top/x.txt
@@ -106,7 +107,6 @@ http://kxrj.site:55/lib/kx2024.txt
 https://live.zbds.top/tv/iptv4.txt
 https://live.zbds.top/tv/iptv6.txt
 https://2912.kstore.space/520.txt
-http://home.jundie.top:81/Cat/tv/live.txt
 http://175.178.251.183:6689/live.txt 
 https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
 https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
