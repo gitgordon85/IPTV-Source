@@ -14,6 +14,7 @@ http://wx.thego.cn/hk.txt
 https://tv.850930.xyz/kdsb.txt
 https://jihulab.com/-/snippets/5265/raw/main/.txt
 http://home.jundie.top:81/Cat/tv/live.txt
+https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.txt
 
 http://xhztv.top/zbc.txt
 http://live.nctv.top/x.txt
@@ -35,6 +36,7 @@ https://cdn.jsdelivr.net/gh/joevess/IPTV@main/home.m3u8
 https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
+https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E9%BB%91%E9%BE%99%E6%B1%9FPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt
 
 http://120.233.84.209:3568/tv.txt
 https://ygbh.site/php/bhzb.php
