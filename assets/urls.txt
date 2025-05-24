@@ -4,6 +4,9 @@ https://live.izbds.com/tv/iptv6.txt
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 
+#待确认无.txt 后缀是可用的
+https://gitee.com/kdsb/lm/raw/master/2025
+
 https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/DIYP%20fanmingming.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
 https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt
