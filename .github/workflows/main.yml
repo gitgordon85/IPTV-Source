@@ -2,7 +2,7 @@ name: 'Daily Job'
 
 on:
   schedule:
-    - cron: '0 21,9 * * *' # UTC
+    - cron: '0 */4 * * *'  # UTC时间每4小时执行一次
   workflow_dispatch:
 
 jobs:
