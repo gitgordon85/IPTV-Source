@@ -56,6 +56,11 @@ https://aktv.top/live.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
 https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E9%BB%91%E9%BE%99%E6%B1%9FPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt
 
+# IPTV-IPV6 仓库
+https://tv.youdu.fan:666/live/ 
+http://home.jundie.top:81/Cat/tv/live.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+
 # 以下邢学斌整理
 https://ygbh.site/php/bhzb.php
 http://aktv.top/live.txt
@@ -80,6 +85,7 @@ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
