@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 # https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E7%A7%BB%E5%8A%A8%E4%B8%93%E4%BA%AB.txt
 https://tv.iill.top/m3u/Gather
 
-# 以下佛系整理，无.txt 后缀是可用的
+# 以下佛系整理，直接下载的txt文件可用，网页版无.txt 后缀是可用的
 http://8.138.7.223/51.txt
 https://live.izbds.com/tv/iptv4.txt
 https://live.izbds.com/tv/iptv6.txt
