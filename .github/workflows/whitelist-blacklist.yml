@@ -2,7 +2,7 @@ name: 'WhiteList BlackList'
 
 on:
   schedule:
-    - cron: '0 16 * * 4' # UTC
+    - cron: '0 16 * * 4' # UTC time, runs every Thursday at 16:00 (4 PM)
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # [修改20240620] 必须设置为0，获取完整git历史记录
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -32,7 +34,14 @@ jobs:
           git add ./assets/whitelist-blacklist/*
           git commit -m "黑白名单 AutoUpdate $(date +'%Y%m%d')"
 
+      # [关键修改20240620] 新增同步远程分支步骤
+      - name: Pull latest changes before push
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git pull --rebase origin main  # 使用rebase避免生成合并提交
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: false  # [修改20240620] 显式禁用强制推送
